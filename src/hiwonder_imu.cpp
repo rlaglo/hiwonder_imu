@@ -11,7 +11,6 @@
 #include "tf2_geometry_msgs/tf2_geometry_msgs.hpp"
 
 // 시리얼 라이브러리가 설치되어 있다고 가정 (sudo apt install ros-humble-serial-driver)
-// 또는 단순화를 위해 개념적 시리얼 인터페이스를 사용합니다.
 #include "serial_driver/serial_driver.hpp"
 #include "io_context/io_context.hpp"
 
